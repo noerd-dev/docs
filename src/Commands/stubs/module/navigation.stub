@@ -1,7 +1,0 @@
-- title: {{module-name}}_nav_{{module-name}}
-  name: {{module-name}}
-  route: {{module-name}}.index
-  block_menus:
-    - title: {{module-name}}_nav_overview
-      navigations:
-        - { title: {{module-name}}_nav_{{models}}, route: {{module-name}}.index, heroicon: list-bullet }
